@@ -428,19 +428,10 @@ Want to master these platforms quickly and efficiently? I offer comprehensive tr
 
 Don't waste months figuring this out on your own. Get expert guidance and implementation:
 
-#### 🛒 **[Get Premium Automation Templates](YOUR_GUMROAD_LINK)**
-- ✅ 50+ Proven Workflow Templates
-- ✅ Step-by-Step Implementation Guides  
-- ✅ Video Tutorials for Each Platform
-- ✅ 30-Day Money-Back Guarantee
-- 💰 **Special Launch Price**: $97 (Regular $297)
+#### 🛒 **[Get Premium Automation Templates](promptengineerxx.gumroad.com/l/oyrcwi)**
 
-#### 💼 **[Hire Me for Custom Automation](YOUR_FIVERR_LINK)**
-- ✅ Platform Selection Consultation
-- ✅ Custom Workflow Development
-- ✅ Team Training & Onboarding
-- ✅ Ongoing Support & Optimization
-- 🏆 **Top-Rated Seller** with 500+ successful projects
+#### 💼 **[Hire Me for Custom Automation](https://www.fiverr.com/sellers/eyup_unc0n)**
+
 
 #### 📧 **Free Consultation Available**
 Not sure which platform is right for you? Book a free 15-minute consultation to discuss your specific needs and get personalized recommendations.
