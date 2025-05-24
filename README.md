@@ -428,7 +428,7 @@ Want to master these platforms quickly and efficiently? I offer comprehensive tr
 
 Don't waste months figuring this out on your own. Get expert guidance and implementation:
 
-#### 🛒 **[Get Premium Automation Templates](promptengineerxx.gumroad.com/l/oyrcwi)**
+#### 🛒 **[Get Premium Automation Templates](https://promptengineerxx.gumroad.com/l/oyrcwi)**
 
 #### 💼 **[Hire Me for Custom Automation](https://www.fiverr.com/sellers/eyup_unc0n)**
 
