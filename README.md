@@ -382,21 +382,20 @@ Google Analytics → Zapier → Google Sheets →
 ### 📚 **Free Learning Materials**
 
 #### **N8N Resources:**
-- 🎥 [Official N8N YouTube Channel](https://youtube.com/n8n)
+- 🎥 [Official N8N YouTube Channel](https://www.youtube.com/@n8n-io)
 - 📖 [N8N Documentation](https://docs.n8n.io)
-- 👥 [N8N Community Forum](https://community.n8n.io)
-- 🧑‍💻 [GitHub Examples](https://github.com/n8n-io/n8n)
+- 👥 [N8N Community Forum](https://community.n8n.io/)
+- 🧑‍💻 [Workflow Automation Templates](https://n8n.io/workflows/)
 
 #### **Zapier Resources:**
-- 🎓 [Zapier University](https://zapier.com/university)
-- 📖 [Zapier Blog](https://zapier.com/blog)
-- 👥 [Zapier Community](https://community.zapier.com)
+- 🎓 [Official Zapier Youtube Channel](https://www.youtube.com/@Zapier)
+- 📖 [Zapier Documentation](https://docs.zapier.com/platform/home)
 - 🧑‍💻 [Zapier Apps](https://zapier.com/apps)
 
 #### **Make.com Resources:**
-- 🎥 [Make.com Academy](https://www.make.com/en/academy)
-- 📖 [Make.com Help Center](https://www.make.com/en/help)
-- 👥 [Make.com Community](https://www.make.com/en/community)
+- 🎥 [Official Make.com Youtube Channel](https://www.youtube.com/@itsmake)
+- 📖 [Make.com Documentation](https://apps.make.com/make)
+- 👥 [Make.com Community](https://community.make.com/)
 - 🧑‍💻 [Template Library](https://www.make.com/en/templates)
 
 ### 🚀 **Advanced Training Options**
